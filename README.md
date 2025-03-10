@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @kipmilton
-- 👀 I’m interested in softhware Engineering
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a web building project
-- 📫 How to reach me, email - kipmilton71@gmail.com 
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: ---
+👋 Hey there, I'm Milton!  
 
-<!---
-kipmilton/kipmilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Developer | Web Wizard  
+
+- 👀 Passionate about Software Engineering  
+- 🌱 Currently mastering the art of Web Development deeper (Frontend & Backend)  
+- 💞️ Open to collaborating on exciting web projects  
+- 📫 Reach me at: Email: kipmilton71@gmail.com  
+- 😄 Pronouns: Mr. (Yes, that's formal, but hey, why not?)
+
+⚡ Fun Fact  
+I picked up **skating at 20** and somehow managed to rack up **more injuries than I ever did learning to ride a bicycle as a kid**. Apparently, falling at higher speeds hurts more—who knew? 🚑😂
